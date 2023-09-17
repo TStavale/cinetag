@@ -12,6 +12,10 @@ Caso, na barra do navegador seja digitado uma rota invalida, será apresentado u
          
 </p>
 
+<h2>Link do Projeto</h2>
+
+https://cinetag-zeta-peach.vercel.app/
+
 <h2>Tecnologias Utilizadas</h2>
 
 |     |   |
@@ -23,7 +27,7 @@ Caso, na barra do navegador seja digitado uma rota invalida, será apresentado u
 
 <h2>Desenvolvido Por</h2>
 
- [Tassio Stavale](https://www.linkedin.com/in/tassio-stavale/) 
+ [Tassio Stavale](https://www.linkedin.com/in/tassio-stavale/)
 
 
 
